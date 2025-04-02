@@ -1,0 +1,7 @@
+clean coach
+fire smoke
+medical assist
+normal
+trackdefective
+tracknotdefective
+unclean_coach
